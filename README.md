@@ -1,5 +1,5 @@
 
-# The Odin Project - Flex - Pranav
+# The Odin Project - Flex - Pranav Nampally
 
 The Odin Project Flex website.
 
